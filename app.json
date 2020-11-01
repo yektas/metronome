@@ -1,0 +1,12 @@
+{
+  "name": "Metronome",
+  "displayName": "Metronome",
+  "expo": {
+    "name": "Metronome",
+    "slug": "Metronome",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
